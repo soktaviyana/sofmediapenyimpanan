@@ -1,0 +1,2 @@
+# sofmediapenyimpanan
+Media Penyimpanan (storage)
